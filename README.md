@@ -12,7 +12,7 @@
     balabla
   * Usuario 03 - menos probable:
     blablabla
-  * **¿Qué existe que es similar a la propuesta?**
+  **¿Qué existe que es similar a la propuesta?**
   * ___antecedentes___
   * imágen:
   * qué es:
