@@ -102,6 +102,6 @@ Dinámico, se entiende cuál es su estilo y cómo se adapta a los diferentes tra
 ## Referentes
 Moodboard que representa lo que quiero que mi página represente/visualice.
 
-![Image alt text](https://github.com/magdarivas/trabajo-final/blob/main/moodboard.png)
+![Image alt text](https://matildeflvi.github.io/portafolio/readme/moodboard.png)
 
 
