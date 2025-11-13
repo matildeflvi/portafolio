@@ -33,7 +33,7 @@ Este es un portafolio experimental que reúne proyectos que me gustan y que refl
 ## Antecedentes
 ### 1. Your Wave
 
-![Image alt text](https://github.com/magdarivas/trabajo-final/blob/main/ref1A.png)
+![Image alt text](https://matildeflvi.github.io/portafolio/readme/img01.png)
 
 **Qué es:** Página web de un estudio de Diseño.
 
@@ -45,7 +45,7 @@ Se comprende fácilmente cuáles son los proyectos y al poder cliquearlos, se ha
 
 ### 2. Byndery
 
-![Image alt text](https://github.com/magdarivas/trabajo-final/blob/main/ref1B.png)
+![Image alt text](https://matildeflvi.github.io/portafolio/readme/img02.png)
 
 **Qué es:** Página web de una agencia creativa y production studio.
 
@@ -56,7 +56,7 @@ Aspectos positivos | Aspectos negativos
 Simple, atractivo y destaca sus proyectos de forma rápida y entretenida. Puedes entender a qué se dedica este estudio de forma automática. | Si bien la organización está bien hecha, puede llegar a ser un poco sobreestimulante el cambio de grillas que van haciendo a medida que se scrollea, tal vez sería mejor si se mantuviese el aspecto simple del principio.
 
 ### 3. Ausra Babie Daite
-![Image alt text](https://github.com/magdarivas/trabajo-final/blob/main/ref1C.png)
+![Image alt text](https://matildeflvi.github.io/portafolio/readme/img03.png)
 
 **Qué es:** Página web del portafolio de Ausra, dedicada a la fotografía en moda y productos.
 
@@ -67,7 +67,7 @@ Aspectos positivos | Aspectos negativos
 Minimalista, los proyectos son lo primero que ves. Al cliquearlo dos veces puedes saber más información del proyecto, lo que hace que exista más riqueza que simplemente unas fotos. | No se entiende si hay que hacer doble click o solo un click, por lo que no es tan intuitivo como parecería.
 
 ### 4. Valentin Mor
-![Image alt text](https://github.com/magdarivas/trabajo-final/blob/main/ref1D.png)
+![Image alt text](https://matildeflvi.github.io/portafolio/readme/img04.png)
 
 **Qué es:** Página web que contiene el protafolio de Valentin Mor, dedicado a la fotografía y la dirección de arte.
 
@@ -78,7 +78,7 @@ Aspectos positivos | Aspectos negativos
 Minimalista, el grillado del centro hace que se vea más elegante y aunque tiene pocas fotos, lo hace parecer interesante y no aburrido. | No tiene mucha información de sus proyectos una vez uno cliquea en las fotos, además de que la parte de la derecha hace que uno se confunda y no entienda a dónde nos lleva, por lo que se hace poco intuitivo y poco entendible.
 
 ### 5. Gordon Von Steiner
-![Image alt text](https://github.com/magdarivas/trabajo-final/blob/main/ref1E.png)
+![Image alt text](https://matildeflvi.github.io/portafolio/readme/img05.png)
 
 **Qué es:** Página web que contiene el portafolio de Gordon von Steiner, diseñador audiovisual y director de arte.
 
@@ -89,7 +89,7 @@ Aspectos positivos | Aspectos negativos
 SIMPLE Y DINÁMICO, el scroll no se hace pesado, hace que sea algo interactivo y divertido. Puedo ver con claridad sus proyectos y por lo tanto su sello en particular. | Cuando cliqueas en el proyecto, te muestra solo su video, pero no te dice en qué parte trabajó y cuál fue su concepto detrás.
 
 ### 6. Anna Mills
-![Image alt text](https://github.com/magdarivas/trabajo-final/blob/main/ref1F.png)
+![Image alt text](https://matildeflvi.github.io/portafolio/readme/img06.png)
 
 **Qué es:** Página web que contiene el portafolio de Anna Mills, diseñadora gráfica y audiovisual.
 
@@ -104,13 +104,4 @@ Moodboard que representa lo que quiero que mi página represente/visualice.
 
 ![Image alt text](https://github.com/magdarivas/trabajo-final/blob/main/moodboard.png)
 
-
-
-
-
-
-- [ ] Checkbox off
-- [x] Checkbox on
-
-**¿Para qué es esta propuesta?** }
 
