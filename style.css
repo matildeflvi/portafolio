@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  overflow: hidden; /* no scroll vertical de la página */
+}
+
+.menu {
+  width: 100%;
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 24px;
+  box-sizing: border-box;
+}
+
+.carousel-wrapper {
+  width: 100%;
+  height: 450px; /* para que se vea bien la imagen */
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  scroll-behavior: auto;
+  position: relative;
+}
+
+.carousel {
+  display: inline-flex;
+}
+
+.carousel-wrapper::-webkit-scrollbar {
+  height: 8px;
+}
+
+.carousel-wrapper::-webkit-scrollbar-thumb {
+  background: #777;
+  border-radius: 4px;
+}
+
+.item {
+  height: 420px;
+  margin: 0 20px;
+  flex-shrink: 0;
+  transition: transform 0.3s ease;
+}
+
+.item:hover {
+  transform: scale(1.03);
+}
+
+.main-title {
+  text-align: center;
+  font-size: 80px;
+  margin: 20px 0;
+  letter-spacing: 3px;
+}
