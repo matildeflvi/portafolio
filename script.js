@@ -1,7 +1,7 @@
 const wrapper = document.getElementById("wrapper");
 const carousel = document.getElementById("carousel");
 
-// Duplica imágenes para tener loop infinito
+// duplica para el loop
 function duplicate() {
   const original = Array.from(carousel.children);
   original.forEach(el => {
@@ -11,13 +11,13 @@ function duplicate() {
 }
 duplicate();
 
-// Scroll vertical del mouse → mueve horizontalmente
+// scroll
 wrapper.addEventListener("wheel", (e) => {
   e.preventDefault();
   wrapper.scrollLeft += e.deltaY;
 });
 
-// Loop infinito: cuando llegas al final o al inicio, lo reinicias suavemente
+// loop se supone
 function loopScroll() {
   const scrollWidth = carousel.scrollWidth;
   const wrapperWidth = wrapper.offsetWidth;
@@ -34,3 +34,4 @@ function loopScroll() {
 }
 
 loopScroll();
+
