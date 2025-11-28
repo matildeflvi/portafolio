@@ -1,32 +1,185 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-  <meta charset="UTF-8" />
-   <meta name="robots" content="noindex, nofollow">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>portfolio</title>
-  <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfoliofv*</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="custom-cursor"></div>
+    <div class="cursor-follower"></div>
 
-  <header class="menu">
-    <div class="left">*</div>
-    <div class="right">more</div>
-  </header>
-
-  <div class="carousel-wrapper" id="wrapper">
-    <div class="carousel" id="carousel">
-      <img src="##" class="item">
-      <img src="##" class="item">
-      <img src="##" class="item">
-      <img src="##" class="item">
-      <img src="##" class="item">
-      <img src="##" class="item">
+    <div class="left-background">
+        <svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMid slice">
+            <path d="M 350 150 Q 380 120 420 140 Q 460 160 480 200 Q 500 240 510 290 Q 520 340 520 390 Q 520 440 510 490 Q 500 540 480 580 Q 460 620 420 640 Q 380 660 350 650" stroke="black" stroke-width="4" fill="none" stroke-linecap="round"/>
+            <path d="M 250 200 Q 280 180 310 200 Q 340 220 360 260 Q 380 300 390 350 Q 400 400 400 450 Q 400 500 390 550 Q 380 600 360 640" stroke="black" stroke-width="4" fill="none" stroke-linecap="round"/>
+            <path d="M 450 300 Q 480 280 510 300 Q 540 320 560 360 Q 580 400 590 450 Q 600 500 600 550 Q 600 600 590 650" stroke="black" stroke-width="4" fill="none" stroke-linecap="round"/>
+            <path d="M 550 380 Q 580 360 610 380 Q 640 400 660 440 Q 680 480 690 530 Q 700 580 700 630" stroke="black" stroke-width="4" fill="none" stroke-linecap="round"/>
+        </svg>
     </div>
-  </div>
 
-  <h1 class="main-title">MATILDE FLORES*</h1>
+    <div class="loading-screen" id="loadingScreen">
+        <div class="loading-content">
+            <div class="loading-title">matifv*</div>
+            <div class="loading-line"></div>
+        </div>
+    </div>
 
-  <script src="script.js"></script>
+    <div class="vertical-nav" id="verticalNav">
+        <a href="#home" class="vertical-text" id="homeLink">matilde flores v</a>
+        <a href="#about" class="vertical-text" id="aboutLink">sobre mí</a>
+        <a href="#contact" class="vertical-text" id="contactLink">encuéntrame</a>
+    </div>
+
+    <div class="main-container page active" id="mainContainer">
+        
+        <div class="left-side" id="leftSide">
+            <div class="projects-wrapper" id="projectsWrapper">
+                <div class="project-item" data-index="0">
+                    <div class="title-with-hover">
+                        <span class="project-title">BOOK</span>
+                        <span class="hover-text">académico individual<br>2025-1</span>
+                    </div>
+                </div>
+                <div class="project-item" data-index="1">
+                    <div class="title-with-hover">
+                        <span class="project-title">Crick-Crack!</span>
+                        <span class="hover-text">académico individual<br>2025-1</span>
+                    </div>
+                </div>
+                <div class="project-item" data-index="2">
+                    <div class="title-with-hover">
+                        <span class="project-title">Azanita</span>
+                        <span class="hover-text">académico grupal<br>2025-2</span>
+                    </div>
+                </div>
+                <div class="project-item" data-index="3">
+                    <div class="title-with-hover">
+                        <span class="project-title">Café Sur</span>
+                        <span class="hover-text">extracurricular individual<br>2025-2</span>
+                    </div>
+                </div>
+                <div class="project-item" data-index="4">
+                    <div class="title-with-hover">
+                        <span class="project-title">MoodChef</span>
+                        <span class="hover-text">extracurricular individual<br>2025-2</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="right-side">
+            <div class="images-container" id="imagesContainer">
+                
+                <div class="project-image" data-index="0">
+                    <div class="carousel-wrapper-outside">
+                        <div class="carousel-viewport">
+                            <div class="carousel-slide">
+                                <img src="img/book01.png" alt="Book 1">
+                                <img src="img/book02.png" alt="Book 2">
+                                <img src="img/book03.png" alt="Book 3">
+                                <img src="img/book04.png" alt="Book 4">
+                                <img src="img/buba.png" alt="Book 5">
+                            </div>
+                            <div class="image-description">
+                                <p class="description-text">Proyecto editorial que abarca todo el proceso, desde el diseño digital hasta la encuadernación, para crear un “book” que recopila y presenta el desarrollo completo del semestre.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-image" data-index="1">
+                    <div class="carousel-wrapper-outside">
+                        <div class="carousel-viewport">
+                            <div class="carousel-slide">
+                                <img src="img/draco.png" alt="Crick 1">
+                                <img src="img/unicornito.png" alt="Crick 2">
+                            </div>
+                            <div class="image-description">
+                                <p class="description-text">Proyecto en colaboración con “La Papelaria”, enfocado en abordar la pérdida de movilidad fina en niños de 5 a 7 años.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-image" data-index="2">
+                    <div class="carousel-wrapper-outside">
+                        <div class="carousel-viewport">
+                            <div class="carousel-slide">
+                                <img src="img/azanini.png" alt="Azanita 1">
+                                <img src="img/primeroaza.png" alt="Azanita 2">
+                                <img src="img/segundoaza.png" alt="Azanita 3">
+                                <img src="img/terceroaza.png" alt="Azanita 4">
+                            </div>
+                            <div class="image-description">
+                                <p class="description-text">Proyecto en colaboración con “CascaraFoods” en base al producto “AzanaKids”. Diseñamos una propuesta lúdica y atractiva, pensada para ser fácil de usar y generar una experiencia dinámica para niños y niñas.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-image" data-index="3">
+                    <div class="carousel-wrapper-outside">
+                        <div class="carousel-viewport">
+                            <div class="carousel-slide">
+                                <img src="img/cafefe01.png" alt="Cafe 1">
+                                <img src="img/cafefe02.png" alt="Cafe 2">
+                                <img src="img/cafefe03.png" alt="Cafe 3">
+                            </div>
+                            <div class="image-description">
+                                <p class="description-text">Diseñé un prototipo gráfico de una página web tomando como base un cliente ficticio: Café Sur, una cafetería de barrio que buscaba mejorar su presencia digital y optimizar la experiencia previa a la visita de sus usuarios jóvenes</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-image" data-index="4">
+                    <div class="carousel-wrapper-outside">
+                        <div class="carousel-viewport">
+                            <div class="carousel-slide">
+                                <img src="img/modi01.png" alt="Mood 1">
+                                <img src="img/modi02.png" alt="Mood 2">
+                            </div>
+                            <div class="image-description">
+                                <p class="description-text">Este mini-proyecto lo desarrollé como un ejercicio personal para experimentar con HTML, CSS y JavaScript, probando interacciones simples y básicas.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="page about-page" id="aboutPage">
+        <div class="about-content">
+            <img src="img/foto.jpg" alt="Retrato Matilde Flores" class="about-portrait">
+            <h1>matilde flores villarroel</h1>
+            <p>Estudiante de Diseño Integral en la Pontificia Universidad Católica de Chile, actualmente cursando el tercer año. Apasionada por el diseño de experiencia de usuario (UX), interfaz de usuario (UI) y diseño editorial.</p>
+            <p>Me caracterizo por una actitud proactiva, un enfoque analítico y una fuerte orientación a resultados, integrando creatividad y visión integral en cada proyecto. Poseo una alta capacidad de adaptación a entornos dinámicos y de adoptar soluciones funcionales y centradas en las necesidades de las personas.</p>
+        </div>
+    </div>
+
+    <div class="page contact-page" id="contactPage">
+        <div class="contact-content">
+            <h1>contacto*</h1>
+            <p>encontrémonos...</p>
+            <div class="contact-info">
+                <div class="contact-item">Email: <a href="mailto:matilde.flores@uc.cl">matilde.flores@uc.cl</a></div>
+                <div class="contact-item">LinkedIn: <a href="https://www.linkedin.com/in/matildefv/" target="_blank">matilde flores villarroel</a></div>
+                <div class="contact-item">Github: <a href="https://github.com/matildeflvi" target="_blank">@matildeflvi</a></div>
+            </div>
+            
+            <form class="contact-form" onsubmit="return false;">
+                <input type="text" class="form-input" placeholder="nombre" required>
+                <input type="email" class="form-input" placeholder="email" required>
+                <textarea class="form-input form-textarea" placeholder="mensaje" required></textarea>
+                <button type="submit" class="form-button">enviar mensaje</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
